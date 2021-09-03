@@ -1,0 +1,15 @@
+current directory: /project/app/rails/rails_vue_api/vendor/bundle　--local/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/home/kitazawa/.rbenv/versions/2.7.2/bin/ruby -I /home/kitazawa/.rbenv/versions/2.7.2/lib/ruby/2.7.0 -r ./siteconf20210903-4395-c04xcf.rb extconf.rb
+creating Makefile
+
+current directory: /project/app/rails/rails_vue_api/vendor/bundle　--local/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /project/app/rails/rails_vue_api/vendor/bundle　--local/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /project/app/rails/rails_vue_api/vendor/bundle　--local/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20210903-4395-7ipwja
